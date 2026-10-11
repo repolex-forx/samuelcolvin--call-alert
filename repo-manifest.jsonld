@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/call-alert/commit/388511b0a57ec1c82f5180a4b33a569f05f3c3aa",
       "git:hexsha": "388511b0a57ec1c82f5180a4b33a569f05f3c3aa",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
